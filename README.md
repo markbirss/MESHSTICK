@@ -3,6 +3,8 @@ diy CH341 USB-TO-SPI SX1262 LoRa Meshstick that you can have manufactured or par
 
 Waveshare SX1262 TXCO Core module is on the back side of the board.
 
+Other versions are also being evaluated SX1280, 1W eByte E22, LR1110 and LR1121
+
 Verion 1 does not have the 24C02 I2C flash chip that is being used to store a unique serial number for the device. 
 
 The 2 pin jumper is populated when you want to program the flash chip.
