@@ -36,7 +36,7 @@ lsusb -s 016 -v|grep -i iserial
 
 # **DISCLAIMER**
 
-# Use at these GERBER, BOM and CPL at you own risk
+# Use of these GERBER, BOM and CPL are at your own risk
 
 **BOARD VERSIONS**
 
