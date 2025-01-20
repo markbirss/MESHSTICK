@@ -56,7 +56,8 @@ V3 (4 layer board)
 v3.zip (includes GERBER, BOM and CPL)
 
 V4 (4 layer board)
-Adds I2C header
+
+Adds I2C header for connecting more I2C devices in the furture
 
 ![image](https://github.com/user-attachments/assets/228740ff-ed01-44a1-b398-000f16365175)
 
