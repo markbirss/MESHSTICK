@@ -91,6 +91,10 @@ Lora:
   USB_VID: 0x1A86
 ```
 
+**TESTING**
+
+Various developers including myself have already received and tested the early version 1 of the Meshstick devices.
+
 
 **More instrctions to follow soon**
 
