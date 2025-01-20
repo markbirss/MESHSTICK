@@ -24,4 +24,6 @@ v4.zip (includes GERBER, BOM and CPL)
 
 You want to add a Meshtastic Powered Meshstick to your Raspberry Pi or Desktop Computer running Ubuntu 24.04/ Debian 12/ Fedora or Steam Deck to use Meshtasticd (linux-native)
 
+**yaml.conf**
 
+https://github.com/meshtastic/firmware/blob/master/bin/config.d/lora-meshstick-1262.yaml
