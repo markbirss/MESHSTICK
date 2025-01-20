@@ -15,13 +15,11 @@ Remove the jumper for normal use (once the 24C02 flash is programmed)
 Confirm that your unique iSerial is actually ready from the device (with jumper removed)
 e.g using lsusb
 
-<lsusb | grep CH341
-Bus 001 Device 016: ID 1a86:5512 QinHeng Electronics CH341 in EPP/MEM/I2C mode, EPP/I2C adapter>
+''lsusb | grep CH341
+Bus 001 Device 016: ID 1a86:5512 QinHeng Electronics CH341 in EPP/MEM/I2C mode, EPP/I2C adapter''
 
-<lsusb -s 016 -v|grep -i iserial
-  iSerial                 3 20000016>
-
-
+''lsusb -s 016 -v|grep -i iserial
+  iSerial                 3 20000016''
 
 # **DISCLAIMER**
 
