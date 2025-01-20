@@ -66,8 +66,23 @@ You want to add a Meshtastic Powered Meshstick to your Raspberry Pi or Desktop C
 arm64/armf/x86-64
 
 **yaml.conf**
-
+source
 https://github.com/meshtastic/firmware/blob/master/bin/config.d/lora-meshstick-1262.yaml
+
+```
+Lora:
+  Module: sx1262
+  CS: 0
+  IRQ: 6
+  Reset: 2
+  Busy: 4
+  spidev: ch341
+  DIO3_TCXO_VOLTAGE: true
+#  USB_Serialnum: 12345678
+  USB_PID: 0x5512
+  USB_VID: 0x1A86
+```
+
 
 **More instrctions to follow soon**
 
