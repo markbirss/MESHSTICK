@@ -69,6 +69,8 @@ arm64/armf/x86-64
 
 https://github.com/meshtastic/firmware/blob/master/bin/config.d/lora-meshstick-1262.yaml
 
+**More instrctions to follow soon**
+
 Support my work and considder
 **buy me a coffee**
 https://buymeacoffee.com/mark.birss
