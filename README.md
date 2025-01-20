@@ -74,6 +74,7 @@ arm64/armf/x86-64 and all OpenWRT architecture packages are available
 
 **yaml.conf**
 source
+
 https://github.com/meshtastic/firmware/blob/master/bin/config.d/lora-meshstick-1262.yaml
 
 ```
