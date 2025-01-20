@@ -5,7 +5,7 @@ Waveshare SX1262 TXCO Core module is on the back side of the board.
 
 # **DISCLAIMER**
 
-Use at own risk
+# Use at own risk
 
 **BOARD VERSIONS**
 
