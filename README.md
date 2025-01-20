@@ -1,6 +1,12 @@
 # MESHSTICK
 diy CH341 USB-TO-SPI SX1262 LoRa Meshstick that you can have manufactured or part assembled and finish by just adding the USB 2.0 connector, Waveshare SX1262 Core LoRa module and SMA anntenna connection
 
+**DISCLAIMER**
+
+Use at own risk
+
+**BOARD VERSIONS**
+
 V2 (2 layer board)
 
 ![image](https://github.com/user-attachments/assets/500f8c9d-ebc8-4c9a-9d1d-d4be7684a38d)
