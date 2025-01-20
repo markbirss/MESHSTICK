@@ -23,7 +23,7 @@ The 2 pin jumper is populated when you want to program the flash chip.
 ```
 Remove the jumper for normal use (once the 24C02 flash is programmed)
 
-Confirm that your unique iSerial is actually ready from the device (with jumper removed)
+Confirm that your unique iSerial is actually read from the device (with jumper removed)
 e.g using lsusb
 
 ```
