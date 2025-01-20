@@ -12,6 +12,12 @@ The 2 pin jumper is populated when you want to program the flash chip.
 
 ![image](https://github.com/user-attachments/assets/aaa8b17d-667d-4d9b-8514-47ea46e0fc33)
 
+```
+5312cc00861a12550403000000000000
+32303030303031360000000000000000
+4d455348535449434b20505752442042
+59204d45534854415354494300000000
+```
 Remove the jumper for normal use (once the 24C02 flash is programmed)
 
 Confirm that your unique iSerial is actually ready from the device (with jumper removed)
