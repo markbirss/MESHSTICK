@@ -65,9 +65,11 @@ v4.zip (includes GERBER, BOM and CPL)
 
 **Use Case**
 
-You want to add a Meshtastic Powered Meshstick to your Raspberry Pi or Desktop Computer running Ubuntu 24.04/ Debian 12/ Fedora or Steam Deck to use Meshtasticd (linux-native)
+You want to add a Meshtastic Powered Meshstick to your Raspberry Pi, OpenWRT Router or Desktop Computer running Ubuntu 24.04/ Debian 12/ Fedora or Steam Deck to use Meshtasticd (linux-native)
 
 arm64/armf/x86-64
+
+![image](https://github.com/user-attachments/assets/151a8aec-32f0-4b41-8105-572d234cb666)
 
 **yaml.conf**
 source
