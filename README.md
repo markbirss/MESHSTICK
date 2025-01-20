@@ -5,14 +5,20 @@ V2 (2 layer board)
 
 ![image](https://github.com/user-attachments/assets/500f8c9d-ebc8-4c9a-9d1d-d4be7684a38d)
 
+v2.zip (includes GERBER, BOM and CPL)
+
 V3 (4 layer board)
 
 ![image](https://github.com/user-attachments/assets/18aa3d66-34e6-4053-8227-9289ae9c23d5)
+
+v3.zip (includes GERBER, BOM and CPL)
 
 V4 (4 layer board)
 Adds I2C header
 
 ![image](https://github.com/user-attachments/assets/228740ff-ed01-44a1-b398-000f16365175)
+
+v4.zip (includes GERBER, BOM and CPL)
 
 **Use Case**
 
