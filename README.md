@@ -71,6 +71,6 @@ https://github.com/meshtastic/firmware/blob/master/bin/config.d/lora-meshstick-1
 
 **More instrctions to follow soon**
 
-Support my work and considder
-**buy me a coffee**
+Support my work and considder **buying  me a coffee**
+
 https://buymeacoffee.com/mark.birss
