@@ -3,6 +3,15 @@ diy CH341 USB-TO-SPI SX1262 LoRa Meshstick that you can have manufactured or par
 
 Waveshare SX1262 TXCO Core module is on the back side of the board.
 
+Verion 1 does not have the 24C02 I2C flash chip that is being used to store a unique serial number for the device. 
+
+The 2 pin jumper is populated when you want to program the flash chip.
+(IMSProg is used in the example bellow)
+
+![image](https://github.com/user-attachments/assets/aaa8b17d-667d-4d9b-8514-47ea46e0fc33)
+
+Remove the jumper for normal use (once the 24C02 flash is programmed)
+
 # **DISCLAIMER**
 
 # Use at own risk
