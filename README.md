@@ -91,11 +91,11 @@ Lora:
   USB_VID: 0x1A86
 ```
 
-**UPDATE**
+**UPDATE** [2025-03-08]
 
 Support for 2.6 MUI 
 
-sudo nano 
+sudo nano /etc/meshtasticd/config.d/x11.yaml
 ```
 Display:
   Panel: X11
