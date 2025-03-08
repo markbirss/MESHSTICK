@@ -103,6 +103,14 @@ Display:
   Height: 480
 ```
 
+Platformio python install
+```
+sudo apt -y install python3-full python3-virtualenv
+virtualenv .
+soruce bin/activate
+pip3 install platformio
+```
+
 Build native-tft (MUI)
 ```
 git clone -b 2.6 https://github.com/meshtastic/firmware
