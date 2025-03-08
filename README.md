@@ -91,6 +91,30 @@ Lora:
   USB_VID: 0x1A86
 ```
 
+**UPDATE**
+
+Support for 2.6 MUI 
+
+sudo nano 
+```
+Display:
+  Panel: X11
+  Width: 480
+  Height: 480
+```
+
+Build native-tft (MUI)
+```
+git clone -b 2.6 https://github.com/meshtastic/firmware
+cd firmware/
+git submodule update --init
+pio run -e native-tft
+.pio/build/native-tft/program
+```
+
+![image](https://github.com/user-attachments/assets/51092e6c-ce0c-4932-8e86-414b0caec46c)
+
+
 **TESTING**
 
 Various developers including myself have already received and tested the early version 1 of the Meshstick devices.
