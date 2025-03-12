@@ -93,7 +93,7 @@ Lora:
 
 **UPDATE** [2025-03-08]
 
-Support for 2.6 MUI 
+Support for 2.6.x MUI 
 
 sudo nano /etc/meshtasticd/config.d/x11.yaml
 ```
