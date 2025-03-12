@@ -95,6 +95,8 @@ Lora:
 
 Support for 2.6.x MUI 
 
+https://meshtastic.org/docs/software/meshtastic-ui/
+
 sudo nano /etc/meshtasticd/config.d/x11.yaml
 ```
 Display:
