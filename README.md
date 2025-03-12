@@ -111,14 +111,16 @@ soruce bin/activate
 pip3 install platformio
 ```
 
-Build native-tft (MUI)
+Build native-tft (MUI) - 2.6.1
 ```
-git clone -b 2.6 https://github.com/meshtastic/firmware
+git clone https://github.com/meshtastic/firmware
 cd firmware/
-git submodule update --init
+git submodule update --init --recursive --remote;
 pio run -e native-tft
 .pio/build/native-tft/program
 ```
+
+![image](https://github.com/user-attachments/assets/9a7b7d22-bf03-4470-ad59-0469376bb167)
 
 ![image](https://github.com/user-attachments/assets/51092e6c-ce0c-4932-8e86-414b0caec46c)
 
