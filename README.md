@@ -75,7 +75,6 @@ Other possible candidates
 
 https://www.lcsc.com/product-detail/Coaxial-Connectors-RF_BAT-WIRELESS-BWSMA-KE-P001_C496550.html
 
-
 https://jlcpcb.com/partdetail/cntitle-SMAKHD9/C20415780
 
 **Use Case**
