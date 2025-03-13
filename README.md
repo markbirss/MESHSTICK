@@ -70,6 +70,11 @@ Alternative parts number available from Mouser or DigiKey
 EMPCB.SMAFSTJ.B.HT
 https://www.digikey.co.za/en/products/detail/taoglas-limited/EMPCB-SMAFSTJ-B-HT/3522337
 
+Other possible candidates
+
+https://www.lcsc.com/product-detail/Coaxial-Connectors-RF_BAT-WIRELESS-BWSMA-KE-P001_C496550.html
+https://jlcpcb.com/partdetail/cntitle-SMAKHD9/C20415780
+
 **Use Case**
 
 You want to add a Meshtastic Powered Meshstick to your Raspberry Pi, OpenWRT Router or Desktop Computer running Ubuntu 24.04/ Debian 12/ Fedora or Steam Deck to use Meshtasticd (linux-native)
