@@ -72,8 +72,9 @@ https://www.digikey.co.za/en/products/detail/taoglas-limited/EMPCB-SMAFSTJ-B-HT/
 
 Other possible candidates
 
+LCSC Part # C496550
 
-https://www.lcsc.com/product-detail/Coaxial-Connectors-RF_BAT-WIRELESS-BWSMA-KE-P001_C496550.html
+or
 
 https://jlcpcb.com/partdetail/cntitle-SMAKHD9/C20415780
 
