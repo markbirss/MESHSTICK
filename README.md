@@ -63,6 +63,12 @@ Adds I2C header for connecting more I2C devices in the furture
 
 v4.zip (includes GERBER, BOM and CPL)
 
+**SMA Connector**
+LCSC #C9900018296
+Alternative parts number available from Mouser or DigiKey
+EMPCB.SMAFSTJ.B.HT
+
+
 **Use Case**
 
 You want to add a Meshtastic Powered Meshstick to your Raspberry Pi, OpenWRT Router or Desktop Computer running Ubuntu 24.04/ Debian 12/ Fedora or Steam Deck to use Meshtasticd (linux-native)
