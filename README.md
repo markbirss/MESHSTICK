@@ -63,11 +63,12 @@ Adds I2C header for connecting more I2C devices in the furture
 
 v4.zip (includes GERBER, BOM and CPL)
 
-**SMA Connector**
-LCSC #C9900018296
+#SMA Connector**
+**LCSC #C9900018296**
 Alternative parts number available from Mouser or DigiKey
-EMPCB.SMAFSTJ.B.HT
 
+EMPCB.SMAFSTJ.B.HT
+https://www.digikey.co.za/en/products/detail/taoglas-limited/EMPCB-SMAFSTJ-B-HT/3522337
 
 **Use Case**
 
