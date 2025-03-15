@@ -64,7 +64,7 @@ Adds I2C header for connecting more I2C devices in the furture
 v4.zip (includes GERBER, BOM and CPL)
 
 
-# **JLBPCB Gerber view (online**
+# **JLBPCB Gerber view (online)**
 https://jlcpcb.com/RGE
 
 # **SMA Connector**
