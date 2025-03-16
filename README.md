@@ -128,8 +128,13 @@ Platformio python install
 ```
 sudo apt -y install python3-full python3-virtualenv
 virtualenv .
-soruce bin/activate
+source bin/activate
 pip3 install platformio
+```
+
+Raspbian Dependancies
+```
+sudo apt install -y libusb-1.0.0-dev libgpiod-dev libyaml-dev libyaml-cpp-dev libbluetooth-dev libxkbcommon-dev libinput-dev libi2c-dev
 ```
 
 Build native-tft (MUI) - 2.6.1
