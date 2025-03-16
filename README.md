@@ -132,7 +132,7 @@ source bin/activate
 pip3 install platformio
 ```
 
-Platformio headers
+Raspbian Dependancies
 ```
 sudo apt install -y libusb-1.0.0-dev libgpiod-dev libyaml-dev libyaml-cpp-dev libbluetooth-dev libxkbcommon-dev libinput-dev libi2c-dev
 ```
