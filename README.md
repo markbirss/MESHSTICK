@@ -7,8 +7,8 @@ iBOM
 BOARD | iBOM url  |
 |:--|:--|
 | V2 | [https://markbirss.github.io/MESHSTICK/](https://markbirss.github.io/MESHSTICK/) |
-| V3 | https://github.com/markbirss/MESHSTICK/blob/main/docs/v3.html | 
-| V4 | https://github.com/markbirss/MESHSTICK/blob/main/docs/v4.html |
+| V3 | (https://github.com/markbirss/MESHSTICK/blob/main/docs/v3.html) | 
+| V4 | (https://github.com/markbirss/MESHSTICK/blob/main/docs/v4.html) |
 
 ![image](https://github.com/user-attachments/assets/82dec8c3-5a28-477a-bc55-12dd8e2373ae)
 
