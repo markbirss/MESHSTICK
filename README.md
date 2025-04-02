@@ -173,9 +173,9 @@ Various developers including myself have already received and tested the early v
 
 **More updates to follow soon**
 
-#[2025-04-02]
+**UPDATE** [2025-04-02]
 
-Cheaper and quicker DIY Meshstick
+# Cheaper and quicker DIY Meshstick
 
 Important Note: Remember to move the voltage jumpers to 3V3
 
