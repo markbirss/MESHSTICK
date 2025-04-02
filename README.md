@@ -171,7 +171,26 @@ pio run -e native-tft
 Various developers including myself have already received and tested the early version 1 of the Meshstick devices.
 
 
-**More instrctions to follow soon**
+**More updates to follow soon**
+
+**[2025-04-02]**
+
+Cheaper and quicker DIY Meshstick
+
+Important Note: Remember to move the voltage jumpers to 3V3
+
+![image](https://github.com/user-attachments/assets/ba8dde8e-d778-48b7-8717-97aba98dad13)
+
+
+![image](https://github.com/user-attachments/assets/06b78362-9d90-469c-9e22-1c8ab6588830)
+
+if I2c flash is really needed connect other side - but after flashing the eeeprom you will need to cut pin1 of ch341
+https://www.aliexpress.com/item/1005005400942525.html
+
+https://www.aliexpress.com/item/1005005305349454.html
+
+https://www.aliexpress.com/item/1005005305349454.html
+
 
 Support my work and considder **buying  me a coffee**
 
