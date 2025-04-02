@@ -179,6 +179,8 @@ Various developers including myself have already received and tested the early v
 
 Important Note: Remember to move the voltage jumpers to 3V3
 
+![image](https://github.com/user-attachments/assets/8447c0ef-48c2-4a3a-8f65-9710fe350646)
+
 ![image](https://github.com/user-attachments/assets/ba8dde8e-d778-48b7-8717-97aba98dad13)
 
 
