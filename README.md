@@ -173,7 +173,7 @@ Various developers including myself have already received and tested the early v
 
 **More updates to follow soon**
 
-**[2025-04-02]**
+#[2025-04-02]
 
 Cheaper and quicker DIY Meshstick
 
