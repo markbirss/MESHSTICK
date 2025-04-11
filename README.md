@@ -93,10 +93,6 @@ Other possible candidates
 
 LCSC Part # C496550
 
-or
-
-https://jlcpcb.com/partdetail/cntitle-SMAKHD9/C20415780
-
 **Use Case**
 
 You want to add a Meshtastic Powered Meshstick to your Raspberry Pi, OpenWRT Router or Desktop Computer running Ubuntu 24.04/ Debian 12/ Fedora or Steam Deck to use Meshtasticd (linux-native)
@@ -175,13 +171,16 @@ Various developers including myself have already received and tested the early v
 
 **UPDATE** [2025-04-02]
 
-# Cheaper and quicker DIY Meshstick
+# Cheaper and quicker DIY Meshstick (PiggyStick)
 
 Important Note: Remember to move the voltage jumpers to 3V3
+
 
 ![image](https://github.com/user-attachments/assets/8447c0ef-48c2-4a3a-8f65-9710fe350646)
 
 ![image](https://github.com/user-attachments/assets/ba8dde8e-d778-48b7-8717-97aba98dad13)
+
+piggystick wio-sx1262
 
 
 ![image](https://github.com/user-attachments/assets/06b78362-9d90-469c-9e22-1c8ab6588830)
