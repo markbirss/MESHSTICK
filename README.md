@@ -182,7 +182,9 @@ Important Note: Remember to move the voltage jumpers to 3V3
 
 PiggyStick wio-sx1262 [2025-04-11]
 ![20250411_161830](https://github.com/user-attachments/assets/83d1bad5-e82d-47c6-bb95-1d577eed0287)
-<div class="tenor-gif-embed" data-postid="14313906" data-share-method="host" data-aspect-ratio="1.21" data-width="100%"><a href="https://tenor.com/view/shaking-butt-happy-excited-wagging-tail-dancing-gif-14313906">Shaking Butt Happy Sticker</a>from <a href="https://tenor.com/search/shaking+butt-stickers">Shaking Butt Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![shaking-butt-happy](https://github.com/user-attachments/assets/6f96dfdf-dcf0-4438-88c8-5b1fe6b49747)
+
+
 
 ![image](https://github.com/user-attachments/assets/06b78362-9d90-469c-9e22-1c8ab6588830)
 
