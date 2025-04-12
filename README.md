@@ -181,9 +181,8 @@ Important Note: Remember to move the voltage jumpers to 3V3
 ![image](https://github.com/user-attachments/assets/ba8dde8e-d778-48b7-8717-97aba98dad13)
 
 PiggyStick wio-sx1262 [2025-04-11]
-![20250411_161830](https://github.com/user-attachments/assets/83d1bad5-e82d-47c6-bb95-1d577eed0287)
 ![shaking-butt-happy](https://github.com/user-attachments/assets/6f96dfdf-dcf0-4438-88c8-5b1fe6b49747)
-
+![20250411_161830](https://github.com/user-attachments/assets/83d1bad5-e82d-47c6-bb95-1d577eed0287)
 
 
 ![image](https://github.com/user-attachments/assets/06b78362-9d90-469c-9e22-1c8ab6588830)
