@@ -148,12 +148,14 @@ Raspbian Dependancies
 sudo apt install -y libusb-1.0-0-dev libgpiod-dev libyaml-dev libyaml-cpp-dev libbluetooth-dev libxkbcommon-dev libinput-dev libi2c-dev
 ```
 
-Build native-tft (MUI) - 2.6.1
+Build native-tft (MUI) - 2.6.x
 ```
 git clone https://github.com/meshtastic/firmware
 cd firmware/
 git submodule update --init --recursive --remote;
 pio run -e native-tft
+#enable enter key
+xmodmap -e "keycode 36 = Linefeed"
 .pio/build/native-tft/program
 ```
 
