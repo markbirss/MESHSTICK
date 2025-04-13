@@ -154,8 +154,6 @@ git clone https://github.com/meshtastic/firmware
 cd firmware/
 git submodule update --init --recursive --remote;
 pio run -e native-tft
-#enable enter key
-xmodmap -e "keycode 36 = Linefeed"
 .pio/build/native-tft/program
 ```
 
