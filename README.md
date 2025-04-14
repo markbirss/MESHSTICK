@@ -184,7 +184,7 @@ PiggyStick wio-sx1262 [2025-04-11]
 ![shaking-butt-happy](https://github.com/user-attachments/assets/6f96dfdf-dcf0-4438-88c8-5b1fe6b49747)
 ![20250411_161830](https://github.com/user-attachments/assets/83d1bad5-e82d-47c6-bb95-1d577eed0287)
 
-PiggyStick LR1121 E80-900M2213S 868/915 and 2.4Ghz LoRa Dual Module [2025-04-14]
+PiggyStick LR1121 E80-900M2213S 868/915 and 2.4Ghz Dual LoRa Radio Module (only one radio use at a time) [2025-04-14]
 ![image](https://github.com/user-attachments/assets/edca2a78-8112-4522-918f-78f406324169)
 
 
