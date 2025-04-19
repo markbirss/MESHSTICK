@@ -6,7 +6,7 @@ iBOM
 
 BOARD | iBOM url  |
 |:--|:--|
-| V2 | [https://markbirss.github.io/MESHSTICK/](https://markbirss.github.io/MESHSTICK/) |
+| V4 | [https://markbirss.github.io/MESHSTICK/](https://markbirss.github.io/MESHSTICK/) |
 
 Alternative Parts list
 
