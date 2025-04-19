@@ -8,12 +8,6 @@ BOARD | iBOM url  |
 |:--|:--|
 | V4 | [https://markbirss.github.io/MESHSTICK/](https://markbirss.github.io/MESHSTICK/) |
 
-Alternative Parts list
-
-contributed by https://github.com/MayNiklas
-
-https://github.com/markbirss/MESHSTICK/blob/main/docs/Meshstick_commented.pdf
-
 ![image](https://github.com/user-attachments/assets/82dec8c3-5a28-477a-bc55-12dd8e2373ae)
 
 
