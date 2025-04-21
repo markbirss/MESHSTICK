@@ -117,6 +117,12 @@ Lora:
 
 **UPDATE** [2025-03-08]
 
+If you have installed meshtasticd package, you will first need to stop the meshtasticd service to run mui
+```
+sudo systemctl stop meshtasticd
+sudo systemctl disable meshtasticd
+```
+
 Support for 2.6.x MUI 
 
 https://meshtastic.org/docs/software/meshtastic-ui/
