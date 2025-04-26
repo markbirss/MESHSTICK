@@ -199,6 +199,10 @@ https://www.aliexpress.com/item/1005005400942525.html
 
 https://www.aliexpress.com/item/1005005305349454.html
 
+Trademarks
+
+Meshtastic® is a registered trademark of Meshtastic LLC
+https://meshtastic.org/docs/legal/licensing-and-trademark/
 
 Support my work and considder **buying  me a coffee**
 
