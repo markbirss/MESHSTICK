@@ -132,16 +132,26 @@ https://drive.google.com/file/d/1g-4EMshe5GP99uXz_K4nthUIZ1fj3jOa/view
 Mesh Hessen Raspberry Pi Image Changelog:
 
 Meshsens (updated)
+
 Meshtastic CLI (updated)
+
 Meshtasticd Native Linux 2.6.4 including MUI version 2.6.6
+
 (Prepared for the MeshStick)
+
+
 For other HATs or dongles, you will need to adjust the Meshtasticd settings.
 
 The image is ready to use.
+
 Download with Chrome
+
 Extract with 7zip
+
 Flash with Belena Etcher
 
+
+There are two startup scripts on the desktop: one for using the MeshStick via the MUI window, and one for using it via Android.
 
 
 Or build native-tft mui yourself
