@@ -126,7 +126,7 @@ Support for 2.6.x MUI
 
 OS Image (Contributed by @Do3MLA, Manuel)
 
-[https://discord.com/channels/@me/1352756838629769307/1366167874099609692](https://drive.google.com/file/d/1g-4EMshe5GP99uXz_K4nthUIZ1fj3jOa/view)
+https://drive.google.com/file/d/1g-4EMshe5GP99uXz_K4nthUIZ1fj3jOa/view
 
 Mesh Hessen Raspberry Pi Image Changelog:
 
