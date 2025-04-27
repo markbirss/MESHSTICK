@@ -124,7 +124,8 @@ sudo systemctl disable meshtasticd
 
 Support for 2.6.x MUI 
 
-OS Image (Contributed by @Do3MLA, Manuel)
+**UPDATE** [2025-04-27]
+OS Image - Mesh Hessen Raspberry Pi Image - (Contributed by @Do3MLA, Manuel)
 
 https://drive.google.com/file/d/1g-4EMshe5GP99uXz_K4nthUIZ1fj3jOa/view
 
@@ -142,7 +143,8 @@ Extract with 7zip
 Flash with Belena Etcher
 
 
-Or build yourself
+
+Or build native-tft mui yourself
 
 https://meshtastic.org/docs/software/meshtastic-ui/
 
