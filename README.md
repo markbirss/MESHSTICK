@@ -124,6 +124,26 @@ sudo systemctl disable meshtasticd
 
 Support for 2.6.x MUI 
 
+OS Image (Contributed by @Do3MLA, Manuel)
+
+https://discord.com/channels/@me/1352756838629769307/1366167874099609692
+
+Mesh Hessen Raspberry Pi Image Changelog:
+
+Meshsens (updated)
+Meshtastic CLI (updated)
+Meshtasticd Native Linux 2.6.4 including MUI version 2.6.6
+(Prepared for the MeshStick)
+For other HATs or dongles, you will need to adjust the Meshtasticd settings.
+
+The image is ready to use.
+Download with Chrome
+Extract with 7zip
+Flash with Belena Etcher
+
+
+Or build yourself
+
 https://meshtastic.org/docs/software/meshtastic-ui/
 
 sudo nano /etc/meshtasticd/config.d/x11.yaml
