@@ -228,8 +228,21 @@ if I2c flash is really needed connect other side - but after flashing the eeepro
 
 https://www.aliexpress.com/item/1005005400942525.html
 
-
 https://www.aliexpress.com/item/1005005305349454.html
+
+
+**UPDATE** [2025-05-05]
+
+
+Piggystick also works mounted in front with a flipped pcb
+
+
+Newer editions of the CH341B dongles are also supported and working as exspected
+
+![image](https://github.com/user-attachments/assets/c92588c4-53c1-4f07-a105-9fc976a735bc)
+
+
+
 
 Trademarks
 
