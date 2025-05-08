@@ -234,7 +234,7 @@ https://www.aliexpress.com/item/1005005305349454.html
 **UPDATE** [2025-05-05]
 
 
-Piggystick also works mounted in front with a flipped pcb
+Piggystick also works mounted in front with a flipped pcb ( ou can even swap radio modules out )
 
 ![image](https://github.com/user-attachments/assets/c78452f4-b839-4c28-ae2a-e11569d04324)
 
