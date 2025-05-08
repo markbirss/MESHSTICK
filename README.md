@@ -236,11 +236,11 @@ https://www.aliexpress.com/item/1005005305349454.html
 
 Piggystick also works mounted in front with a flipped pcb
 
+![image](https://github.com/user-attachments/assets/c78452f4-b839-4c28-ae2a-e11569d04324)
 
 Newer editions of the CH341B dongles are also supported and working as exspected
 
 ![image](https://github.com/user-attachments/assets/c92588c4-53c1-4f07-a105-9fc976a735bc)
-
 
 
 
