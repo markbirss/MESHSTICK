@@ -252,6 +252,6 @@ https://meshtastic.org/docs/legal/licensing-and-trademark/
 
 Pine64 is a registered trademark of https://pine64.com/ - Pine Store ltd. 
 
-Support my work and considder **buying  me a coffee**
+Support my work and consider **buying  me a coffee**
 
 https://buymeacoffee.com/mark.birss
