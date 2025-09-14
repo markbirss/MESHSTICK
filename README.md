@@ -14,9 +14,9 @@ diy CH341 USB-TO-SPI SX1262 LoRa Meshstick that you can have manufactured or par
 
 Waveshare SX1262 TXCO Core module is on the back side of the board.
 
-More vesions being evaluated are SX1280, 1W eByte E22, wio sx1262, LR1110 and LR1121
+More versions being evaluated are SX1280, 1W eByte E22, wio sx1262, LR1110 and LR1121
 
-Verion 1 did not have the 24C02 I2C flash chip that is being used to store a unique serial number for the device. 
+Version 1 did not have the 24C02 I2C flash chip that is being used to store a unique serial number for the device. 
 
 The 2 pin jumper is populated when you want to program the flash chip.
 (IMSProg is used in the example bellow)
@@ -39,7 +39,7 @@ lsusb | grep CH341
 Bus 001 Device 016: ID 1a86:5512 QinHeng Electronics CH341 in EPP/MEM/I2C mode, EPP/I2C adapter
 ```
 
-**Use the device numder 016 above for -s**
+**Use the device number 016 above for -s**
 ```
 lsusb -s 016 -v|grep -i iserial
   iSerial                 3 20000016
@@ -234,11 +234,11 @@ https://www.aliexpress.com/item/1005005305349454.html
 **UPDATE** [2025-05-05]
 
 
-Piggystick also works mounted in front with a flipped pcb ( ou can even swap radio modules out )
+Piggystick also works mounted in front with a flipped pcb (you can even swap radio modules out )
 
 ![image](https://github.com/user-attachments/assets/c78452f4-b839-4c28-ae2a-e11569d04324)
 
-Newer editions of the CH341B dongles are also supported and working as exspected
+Newer editions of the CH341B dongles are also supported and working as expected
 
 ![image](https://github.com/user-attachments/assets/c92588c4-53c1-4f07-a105-9fc976a735bc)
 
