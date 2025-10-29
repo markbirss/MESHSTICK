@@ -95,6 +95,14 @@ arm64/armf/x86-64 and all OpenWRT architecture packages are available
 ![image](https://github.com/user-attachments/assets/151a8aec-32f0-4b41-8105-572d234cb666)
 ![image](https://github.com/user-attachments/assets/6efbec43-0d96-4e8c-8f79-3fa06c425427)
 
+**blacklist spi-ch341 kernel driver**
+
+add to /etc/modprobe.d/blacklist.conf
+```
+# Meshstick
+blacklist spi-ch341
+```
+
 **yaml.conf**
 source
 
