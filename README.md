@@ -106,8 +106,6 @@ blacklist spi-ch341
 **yaml.conf**
 source
 
-https://github.com/meshtastic/firmware/blob/master/bin/config.d/lora-meshstick-1262.yaml
-
 ```
 Lora:
   Module: sx1262
@@ -116,6 +114,7 @@ Lora:
   Reset: 2
   Busy: 4
   spidev: ch341
+  DIO2_AS_RF_SWITCH: true
   DIO3_TCXO_VOLTAGE: true
 #  USB_Serialnum: 12345678
   USB_PID: 0x5512
