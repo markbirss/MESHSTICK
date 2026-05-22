@@ -255,7 +255,13 @@ Newer editions of the CH341B dongles are also supported and working as expected
 
 ![image](https://github.com/user-attachments/assets/c92588c4-53c1-4f07-a105-9fc976a735bc)
 
+Related 
 
+https://github.com/LongMesh/MeshHardware/tree/main/MeshTadpoleStick
+
+Derived Work
+
+https://github.com/linser233/MiniMesh
 
 Trademarks
 
