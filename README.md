@@ -265,6 +265,10 @@ Derived Work
 
 https://github.com/linser233/MiniMesh
 
+Kernel Driver Stuff
+
+https://github.com/gschorcht/spi-ch341-usb
+
 Trademarks
 
 Meshtastic® is a registered trademark of Meshtastic LLC
