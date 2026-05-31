@@ -257,6 +257,8 @@ Newer editions of the CH341B dongles are also supported and working as expected
 
 Related 
 
+https://pine64.com/product/pinedio-usb-lora-adapter/
+
 https://github.com/LongMesh/MeshHardware/tree/main/MeshTadpoleStick
 
 Derived Work
