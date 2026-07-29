@@ -2,7 +2,7 @@
 
 ## Update 29 July 2026
 
-MESHSTICK is now available from elecrow.com
+MESHSTICK is now available for purchase from elecrow.com
 
 https://www.elecrow.com/meshstick-usb-to-spi-sx1262-tcxo-lora-usb-stick-usb-plug-and-play-meshtastic-lora-mesh-node.html
 
