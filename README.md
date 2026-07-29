@@ -1,5 +1,11 @@
 # MESHSTICK
 
+## Update 29 July 2026
+
+MESHSTICK is now available from elecrow.com
+
+https://www.elecrow.com/meshstick-usb-to-spi-sx1262-tcxo-lora-usb-stick-usb-plug-and-play-meshtastic-lora-mesh-node.html
+
 Schematic 
 
 ### Note: D1 is available for Rxen should you need it
