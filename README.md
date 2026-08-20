@@ -2,6 +2,10 @@
 
 ## Update 20 Aug 2026
 
+For MESHSTICK related usage and support issues visit the Meshtastic Discord - and ask question in the meshtasticd channel
+
+https://discord.com/invite/meshtastic
+
 MESHSTICK under linux requires no yaml configuration changes, the stick will be autodetected, view the meshtsticd systemctl status with
 
 ```
