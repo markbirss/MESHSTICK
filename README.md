@@ -3,9 +3,12 @@
 OS Support | supported |  Notes |
 |:--|:--|:--|
 | Windows | Under development | https://github.com/meshtastic/firmware/pull/11031 |
-| MAC OSX | Basic without MUI/Web | https://meshtastic.org/docs/meshtasticd/installation/macos/ |
-| Linux | Yes with MUI/Web | Includes various Raspberry Pi and Linux Desktops etc |
+| MAC OSX | Basic without MUI/Web | Supported MacOS: 26 tahoe, 15 sequoia - using brew - https://meshtastic.org/docs/meshtasticd/installation/macos/ |
+| Linux | Yes with MUI/Web | Includes various Raspberry Pi and Linux Desktops refer to further details below |
 | OpenWRT | Yes with Web | Does require routers with USB port and 16MB of SPI Flash or more as the packages require around 3MB space - https://meshtastic.org/docs/meshtasticd/openwrt/ |
+
+Refer to this for more details
+https://meshtastic.org/docs/meshtasticd/installation/
 
 ## Update 20 Aug 2026
 
