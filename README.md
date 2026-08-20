@@ -2,7 +2,18 @@
 
 ## Update 20 Aug 2026
 
-MESHSTICK under linux requires no yaml configuration changes, the stick will be autodetected
+MESHSTICK under linux requires no yaml configuration changes, the stick will be autodetected, view the meshtsticd systemctl status with
+
+```
+sudo systemctl status meshtasticd
+
+```
+
+View logs with
+
+```
+journalctl -u meshtasticd
+```
 
 ```
 autoconf: Looking for CH341 device...
