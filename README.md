@@ -33,6 +33,9 @@ MAC ADDRESS: 32:79:44:3F:ED:5B
 Initializing extra pins
 ```
 
+MESHSTICK DIY without a i2c eeprom will stil require yaml config file
+
+
 ## Update 29 July 2026
 
 MESHSTICK is now available for purchase from elecrow.com
