@@ -1,5 +1,23 @@
 # MESHSTICK
 
+## Update 20 Aug 2026
+
+MESHSTICK under linux requires no yaml configuration changes, the stick will be autodetected
+
+```
+autoconf: Looking for CH341 device...
+libusb: warning [libusb_get_string_descriptor_ascii] suspicious bLength 18 for string descriptor (read 127)
+autoconf: Found CH341 device MESHSTICK 1262
+autoconf: Setting hardwareModel to Meshstick 1262
+autoconf: Using lora-usb-meshstick-1262.yaml as config file for MESHSTICK 1262
+libusb: warning [libusb_get_string_descriptor_ascii] suspicious bLength 18 for string descriptor (read 127)
+CH341 Serial 26073697
+CH341 Product MESHSTICK 1262
+Deriving MAC address from Serial and Product String
+MAC ADDRESS: 32:79:44:3F:ED:5B
+Initializing extra pins
+```
+
 ## Update 29 July 2026
 
 MESHSTICK is now available for purchase from elecrow.com
