@@ -1,5 +1,12 @@
 # MESHSTICK
 
+OS Support | supported |  Notes |
+|:--|:--|:--|
+| Windows | Under development | https://github.com/markbirss/rk3506-ubuntu/tree/luckfox-bpi |
+| MAC OSX | Basic without MUI | https://github.com/markbirss/rk3506-ubuntu/tree/luckfox-bpi |
+| Linux | Yes with MUI | Includes various Raspberry Pi and Linux Desktops etc |
+| OpenWRT | Yes | Does require routers with USB port and 16MB of SPI Flash or more |
+
 ## Update 20 Aug 2026
 
 For MESHSTICK related usage and support issues visit the Meshtastic Discord server - and ask question in the meshtasticd channel
